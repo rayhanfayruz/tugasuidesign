@@ -1,0 +1,88 @@
+main{
+    background-image: url("image/rear-view-programmer-working-all-night-long.jpg");
+    background-size: cover;
+    background-position: cover;
+    color: white;
+}
+
+main div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20% 0px;
+    width: 100%;
+    flex-direction: column;
+}
+
+.GROUP{
+    color: rgb(237, 6, 6);
+}
+
+.raihan{
+    color: rgb(12, 1, 1);
+}
+
+main p{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main div h1{
+    font-size: 75px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div h3  {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+.writter {
+    text-align: left;
+    margin-right: auto;
+}
+
+.gambar {
+    flex-direction: column;
+    margin: 130px;
+    border-radius: 10px;
+}
+ 
+section {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+}
+
+.section{
+    background-color: rgb(37, 170, 177);
+}
+
+.img-0 img {
+    margin: 150px 0 0 190px;
+}
+
+.img-1 img {
+    margin: 90px 50px 0 90px;
+    height: 40%;
+    width: 40%;
+}
+
+.img-2 img {
+    margin: -460px 0px 0 820px;
+    height: 40%;
+    width: 40%;
+}
+
+.img-3 img {
+    margin: 70px 50px 0 90px;
+    height: 40%;
+    width: 40%;
+}
+
+.img-4 img {
+    margin: -430px 0px 0 800px;
+    height: 40%;
+    width: 40%;
+}
